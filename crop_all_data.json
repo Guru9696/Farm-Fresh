@@ -1,0 +1,165 @@
+{
+    "crops": [
+        {
+            "name": "Wheat",
+            "soil_type": "Loamy",
+            "pH": "6.0-7.5",
+            "rainfall": "120-200",
+            "temperature": "15-25",
+            "description": "Wheat is a staple cereal crop grown globally for its essential role in food production. It thrives in loamy, well-drained soils with moderate fertility. Temperatures between 15-25°C and rainfall of 120-200mm provide optimal growing conditions. Wheat varieties like hard red wheat, soft white wheat, and durum wheat cater to various industries, from bread-making to pasta production. The crop’s cultivation spans 100-120 days and has a significant role in global trade, food security, and economic development. Its nutritional value includes carbohydrates, fiber, protein, and essential vitamins, making wheat indispensable in global diets.",
+            "benefits": [
+                "Rich in essential nutrients",
+                "Supports digestive health",
+                "Promotes heart health",
+                "Provides sustainable energy",
+                "Aids in weight management",
+                "Highly versatile in food and industrial uses"
+            ]
+        },
+        {
+            "name": "Rice",
+            "soil_type": "Clay",
+            "pH": "5.5-7.5",
+            "rainfall": "150-300",
+            "temperature": "20-30",
+            "description": "Rice is one of the world’s most consumed staple foods, especially in Asia, Africa, and Latin America. It requires clay-rich soils that retain water, heavy rainfall, and warm temperatures. Its cultivation involves flooding fields to suppress weeds while nurturing the crop. Rice varieties include basmati, jasmine, and brown rice, each catering to specific tastes and nutritional needs. Brown rice is particularly healthy due to its fiber, vitamins, and minerals. Rice supports economies through exports, food security, and by-products like rice bran oil and rice flour.",
+            "benefits": [
+                "Versatile in cooking",
+                "High energy source",
+                "Gluten-free and suitable for celiac diets",
+                "Supports healthy weight gain",
+                "Contains antioxidants",
+                "Key export commodity"
+            ]
+        },
+        {
+            "name": "Maize",
+            "soil_type": "Sandy",
+            "pH": "5.5-7.0",
+            "rainfall": "100-150",
+            "temperature": "18-30",
+            "description": "Maize, also known as corn, is a versatile crop grown worldwide for food, animal feed, and industrial products. It thrives in sandy, well-drained soils with temperatures between 18-30°C. It has a short growing season of 90-120 days, making it ideal for multiple harvests yearly. Maize is processed into cornmeal, corn oil, and biofuels like ethanol. Its by-products include biodegradable materials, contributing to sustainable industries. Nutritionally, maize provides carbohydrates, fiber, and essential vitamins like B6 and folate.",
+            "benefits": [
+                "High yield per acre",
+                "Rich in essential nutrients",
+                "Boosts economic development",
+                "Renewable energy source",
+                "Used in diverse food products",
+                "Key livestock feed ingredient"
+            ]
+        },
+        {
+            "name": "Barley",
+            "soil_type": "Loamy",
+            "pH": "6.0-7.0",
+            "rainfall": "100-150",
+            "temperature": "12-25",
+            "description": "Barley is a hardy cereal crop suitable for loamy soils and temperate climates. It has a growing season of 90-120 days. Barley is essential in brewing, distilling, and health food production. Its high fiber content, especially beta-glucan, promotes heart health. The crop supports food and beverage industries, animal feed production, and environmental sustainability through its adaptability to different climates.",
+            "benefits": [
+                "High in dietary fiber",
+                "Supports heart health",
+                "Useful in brewing and baking",
+                "Rich in essential minerals",
+                "Aids in weight management",
+                "Grows in diverse climates"
+            ]
+        },
+        {
+            "name": "Sugarcane",
+            "soil_type": "Clay",
+            "pH": "6.5-7.5",
+            "rainfall": "200-300",
+            "temperature": "20-30",
+            "description": "Sugarcane is a tropical crop grown in clay-rich soils with ample rainfall and warm temperatures. It supports sugar, ethanol, and molasses production, driving economies through trade and biofuel industries. With by-products like bagasse, used for bioenergy and paper manufacturing, sugarcane plays a key role in sustainable agriculture. Its long growing season ensures continuous productivity.",
+            "benefits": [
+                "High sugar yield",
+                "Renewable energy source",
+                "Supports economic growth",
+                "Produces valuable by-products",
+                "Promotes global trade",
+                "Improves soil fertility"
+            ]
+        },
+        {
+            "name": "Millet",
+            "soil_type": "Sandy",
+            "pH": "5.0-7.5",
+            "rainfall": "100-150",
+            "temperature": "20-35",
+            "description": "Millet is a drought-tolerant grain grown in sandy, well-drained soils. Its ability to withstand harsh conditions makes it vital in arid regions. Millets are rich in protein, fiber, and minerals like iron and magnesium. Popular varieties include pearl, finger, and foxtail millet, used in porridges, breads, and gluten-free diets. Millets play a critical role in combating food insecurity in semi-arid regions.",
+            "benefits": [
+                "Resilient to drought",
+                "Highly nutritious",
+                "Supports food security",
+                "Rich in essential minerals",
+                "Gluten-free alternative",
+                "Promotes sustainable farming"
+            ]
+        },
+        {
+            "name": "Pulses",
+            "soil_type": "Loamy",
+            "pH": "6.0-7.0",
+            "rainfall": "100-150",
+            "temperature": "15-30",
+            "description": "Pulses, including lentils, chickpeas, and beans, are protein-rich legumes. They thrive in loamy soils with moderate rainfall. Pulses improve soil fertility by fixing nitrogen, reducing the need for chemical fertilizers. Their high protein and fiber content make them a nutritional powerhouse in vegetarian and plant-based diets. Pulses are vital for global food security due to their long shelf life and resilience.",
+            "benefits": [
+                "Rich in protein and fiber",
+                "Promotes heart health",
+                "Improves soil fertility",
+                "Supports sustainable farming",
+                "Essential in plant-based diets",
+                "Long storage life"
+            ]
+        },
+        {
+            "name": "Jute",
+            "soil_type": "Clay",
+            "pH": "6.0-7.5",
+            "rainfall": "150-250",
+            "temperature": "20-30",
+            "description": "Jute is a tropical fiber crop grown in clay-rich, water-retentive soils. It requires heavy rainfall and warm temperatures. Jute is eco-friendly, biodegradable, and used in textiles, ropes, and sacks. Its cultivation prevents soil erosion and supports rural economies in countries like India and Bangladesh.",
+            "benefits": [
+                "Eco-friendly fiber",
+                "Supports rural livelihoods",
+                "Biodegradable and sustainable",
+                "Prevents soil erosion",
+                "Key industrial crop",
+                "Boosts global trade"
+            ]
+        },
+        {
+            "name": "Sorghum",
+            "soil_type": "Sandy",
+            "pH": "5.0-7.0",
+            "rainfall": "100-150",
+            "temperature": "20-35",
+            "description": "Sorghum is a drought-resistant crop grown in sandy soils. It is used for food, animal feed, and biofuels. Nutritionally, sorghum is high in fiber, protein, and antioxidants. Its resilience makes it a staple in semi-arid regions, supporting food security and rural economies.",
+            "benefits": [
+                "Drought-tolerant",
+                "Nutritious grain",
+                "Supports rural livelihoods",
+                "Used in animal feed",
+                "Renewable biofuel source",
+                "Promotes soil conservation"
+            ]
+        },
+
+        {
+            "name": "Lentils",
+            "soil_type": "Well-drained loamy",
+            "pH": "6.0-7.0",
+            "rainfall": "100-150",
+            "temperature": "15-25",
+            "description": "Lentils are nutrient-rich legumes packed with protein, fiber, and minerals. They are essential in vegetarian diets and help maintain soil fertility through nitrogen fixation.",
+            "benefits": [
+                "Rich in protein and fiber",
+                "Promotes heart health",
+                "Supports digestive health",
+                "Boosts soil fertility",
+                "Helps manage weight",
+                "Environmentally sustainable"
+            ]
+        }
+    ]
+}
