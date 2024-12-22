@@ -55,7 +55,7 @@ function getCropImage($crop_name)
   <div class="content">
     <div class="gray g2">
       <div class="container_12">
-        <form action="" method="POST" class="decor">
+        <form action="" method="POST" id=" #predict_form" class="decor">
           <div class="form-left-decoration"></div>
           <div class="form-right-decoration"></div>
           <div class="circle"></div>
