@@ -1,4 +1,4 @@
-# Farm Fresh
+# Farm Fresh Crop Recommendation System 
 
 ## Project Summary
 Predicting Suitable Crops for Farm Fresh
