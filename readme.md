@@ -38,3 +38,6 @@ The project will be implemented using PHP, Python, and popular libraries like Sc
 
 ## Conclusion
 The Farm Fresh Project aims to revolutionize agriculture by integrating advanced technologies into traditional farming practices. By predicting the most suitable crops for specific conditions, this initiative will contribute to higher productivity, sustainability, and profitability in the agricultural sector.
+
+## Contact
+For any inquiries or support, please contact [Your Name] at [your-email@example.com].
